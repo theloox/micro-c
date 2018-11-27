@@ -54,6 +54,7 @@ Usage: xclient analysis|invoicing|reporting
 It is both a client
 
 Use xclient invoicing several times to fill more data (duplicates etc):
+```
 % ./client/xclient 
 % ./client/xclient 
 % ./client/xclient 
