@@ -22,9 +22,12 @@ Theycommunicate with each other, and ask for data
 
 ### Build
 Clone to a dir
-Execute:
+Execute in that dir:
 ```
+git clone https://github.com/theloox/micro-c.git
+cd micro-c
 cmake .
+make
 ```
 Now you have a binary in each dir
 
